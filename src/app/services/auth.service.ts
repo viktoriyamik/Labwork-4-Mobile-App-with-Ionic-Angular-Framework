@@ -38,3 +38,4 @@ export class AuthService {
     return signOut(this.auth);
   }
 }
+
