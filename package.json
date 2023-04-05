@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
+  "name": "dLabwork-4-Mobile-App-with-Ionic-Angular-Framework-Firebase",
+=======
   "name": "Labwork-4-Mobile-App-with-Ionic-Angular-Framework-Firebase",
+>>>>>>> 45237d6f2849c020e62a39c5dc45811307ad314d
   "version": "0.0.1",
   "author": "Ionic Framework",
   "homepage": "https://ionicframework.com/",
